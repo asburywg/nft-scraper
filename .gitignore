@@ -1,0 +1,6 @@
+venv/
+.idea/
+scrapers/twitter/.env
+scrapers/opensea/node_modules/
+.DS_Store
+*.DS_Store*
