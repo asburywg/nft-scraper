@@ -6,3 +6,4 @@ scrapers/opensea/node_modules/
 *.DS_Store*
 common/__pycache__/*
 */data/
+etl/__pycache__/*
